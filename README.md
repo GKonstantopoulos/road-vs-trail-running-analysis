@@ -35,7 +35,7 @@ Git & GitHub
 
 The dataset contains personal running activity data exported from a fitness tracking platform.
 
-Main activity types included:
+Main activity types included:  
 Road running, Trail running, Hiking, Ride, Swim, Other training activities  
 The analysis focuses only on running-related activities.
 
