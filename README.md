@@ -30,7 +30,9 @@ Git & GitHub
 ## Project Structure  
 - [`data/`](data/) — Raw and processed datasets  
 - [`src/`](src/) — Python scripts  
-- [`sql/`](sql/) — MySQL queries  
+- [`sql/`](sql/) — MySQL queries
+- [`powerbi/`](powerbi/) — Interactive Power BI dashboard  
+- [`images/`](images/) — Dashboard previews and project visuals  
 
 
 The dataset contains personal running activity data exported from a fitness tracking platform.
@@ -91,6 +93,8 @@ The Power BI dashboard is divided into three analytical sections.
 
 ## Page 1 — General Running Overview  
 
+![Page 1](images/page1.png)  
+
 This section provides a high-level overview of the runner profile.  
 
 Main KPIs  
@@ -113,6 +117,8 @@ Key Insights
 - Pace remained relatively stable despite higher training volume
   
 ##Page 2 — Trail vs Road Deep Dive  
+
+![Page 2](images/page2.png)  
 
 This section focuses on comparative terrain analysis.  
 
@@ -138,6 +144,8 @@ Key Insights
 - Trail sessions require greater cardiovascular effort for comparable pace ranges
  
 ## Page 3 — Ultra / Extreme Trail Analysis  
+
+![Page 3](images/page3.png)  
 
 This section focuses on high-endurance and high-elevation sessions.  
 
